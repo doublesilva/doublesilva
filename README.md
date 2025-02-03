@@ -1,7 +1,3 @@
-Claro, vamos deixar esse texto mais descolado e com a utilização de emojis para dar um toque mais pessoal e moderno:
-
----
-
 ### Olá! 👋
 
 Sou Diego Silva, um **Desenvolvedor .NET** apaixonado por construir soluções de software inovadoras e de alta performance. 🚀 Com 15 anos de experiência na área, tenho me dedicado a criar e otimizar sistemas robustos e escaláveis, focando no desenvolvimento back-end, arquitetura de microsserviços e integração de sistemas. 🖥️
